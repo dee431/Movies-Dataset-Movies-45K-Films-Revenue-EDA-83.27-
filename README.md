@@ -1,4 +1,12 @@
 # Movies-Dataset-Movies-45K-Films-Revenue-EDA-83.27-
+<img width="365" height="488" alt="image" src="https://github.com/user-attachments/assets/21b4c4eb-c7dd-4ee0-a53e-adc94a51a164" />
+
+<img width="304" height="279" alt="image" src="https://github.com/user-attachments/assets/ae35e835-09f9-42bc-bd6b-27047eb9e465" />
+
+<img width="452" height="351" alt="image" src="https://github.com/user-attachments/assets/6e7e91e2-b710-48fa-aad4-6bb6cfbeec9e" />
+
+<img width="258" height="296" alt="image" src="https://github.com/user-attachments/assets/703c963d-3883-4549-95f5-42cf16605b19" />
+
 🎬 Blockbuster Oracle: 45K Movie Revenue Prediction & EDA
 What if you could predict whether a film will bomb or hit the jackpot before shooting a single frame? This project dives deep into a rich metadata ecosystem of over 45,000 films from The Movie Database (TMDB) to decode the hidden formulas of Hollywood box office success using comprehensive Exploratory Data Analysis (EDA) and Machine Learning.
 🌟 Project Highlights
